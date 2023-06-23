@@ -1,13 +1,16 @@
+/* Universal Selector */
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
+/* Element Selector */
 body {
   background-color: #d9dcd6;
 }
 
+/* Class Selector */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -16,11 +19,13 @@ body {
   color: #ffffff;
 }
 
+/* Defining the position and size of the h1 tag */
 .header h1 {
   display: inline-block;
   font-size: 48px;
 }
 
+/* Changing the color of the "seo" span in "Horiseon" */
 .header h1 .seo {
   color: #d9dcd6;
 }
@@ -33,10 +38,12 @@ body {
   font-size: 20px;
 }
 
+/* Removing bullet points for list in navbar */
 .header nav ul {
   list-style-type: none;
 }
 
+/* Selecting the list items inside of the header section */
 .header nav ul li {
   display: inline-block;
   margin-left: 25px;
@@ -51,6 +58,7 @@ p {
   font-size: 16px;
 }
 
+/* Adding an image to cover the height and width of the hero class section */
 .hero {
   height: 800px;
   width: 100%;
@@ -87,11 +95,13 @@ p {
   background-color: #2589bd;
 }
 
+/* Selecting 3 benefit divs inside benefits section */
 .benefit-lead, .benefit-brand, .benefit-cost {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
+/* Headers inside benefits section */
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -103,6 +113,7 @@ p {
   max-width: 150px;
 }
 
+/* Divs inside article */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
   margin-bottom: 20px;
   padding: 50px;
@@ -112,6 +123,7 @@ p {
   color: #ffffff;
 }
 
+/* Images inside of the article */
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
   max-height: 200px;
 }
@@ -129,6 +141,7 @@ p {
   text-align: center;
 }
 
+/* Header attribute inside of the footer*/
 .footer h2 {
   font-size: 20px;
 }
