@@ -18,3 +18,11 @@ Create alt attributes for image elements
 Elements follow logical structure
 Describe code through comments
 ```
+
+## Deployed URL
+
+https://dmerk2.github.io/Horiseon_Code_Refactor/
+
+## Video of Application
+
+![Video of app](assets/images/Horiseon-Website-Preview.gif)
