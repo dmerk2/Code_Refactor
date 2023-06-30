@@ -15,14 +15,14 @@ SO THAT our own site is optimized for search engines
 ---
 
 ```md
-Increasing web accessibility and SEO
-Added descriptive website title
-Fix broken links
-Consolidating CSS code selectors and properties
-Create semantic HTML elements
-Create alt attributes for image elements
-Elements follow logical structure
-Describe code through comments
+* Increased web accessibility and SEO
+* Added descriptive website title
+* Fixed broken links
+* Consolidated CSS code selectors
+* Created semantic HTML elements
+* Created alt attributes for image elements
+* Elements follow logical structure
+* Described code through comments
 ```
 
 ## Deployed URL
@@ -57,5 +57,5 @@ N/A
 
 ---
 
-Check me out on GitHub! [dmerk2](https://github.com/dmerk2)<br>
-Shoot me an email at dan.merkin@gmail.com
+GitHub: [dmerk2](https://github.com/dmerk2)<br>
+Email: dan.merkin@gmail.com
