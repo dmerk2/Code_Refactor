@@ -1,14 +1,15 @@
 # Horiseon Code Refactor
 
-## User Story
+## Table of Contents
 
 ---
 
-```md
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+- [Description](#description)
+- [Deployed-URL](#deployed-url)
+- [Usage](#usage)
+- [Credits](#credits)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Description
 
