@@ -23,7 +23,7 @@
 * Created semantic HTML elements
 * Created alt attributes for image elements
 * Elements follow logical structure
-* Described code through comments
+* Applied DRY principal
 ```
 
 ## Deployed URL
